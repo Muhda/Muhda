@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Azhar
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Artificial intelligence (AI) and system development
 - 📫 Can reach me at piscart586@gmail.com
 
 <!---
